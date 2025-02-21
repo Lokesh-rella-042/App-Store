@@ -1,0 +1,16 @@
+.tabItems {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.items {
+  padding: 10px;
+  color: #7b8794;
+  font-size: 18px;
+  font-weight: 400;
+}
+.tab-buttons {
+  margin: 10px;
+}
